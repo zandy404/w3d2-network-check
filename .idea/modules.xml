@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NetworkingStatus.iml" filepath="$PROJECT_DIR$/NetworkingStatus.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/w3d2-network-check.iml" filepath="$PROJECT_DIR$/w3d2-network-check.iml" />
     </modules>
   </component>
 </project>
